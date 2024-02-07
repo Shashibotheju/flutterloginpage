@@ -141,7 +141,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         TextButton(
             onPressed: () {},
-            child: _buildGreyText("Forgot  password?",
+            child: _buildGreyText("Forgot password?",
                 color: const Color.fromARGB(255, 220, 93, 129)))
       ],
     );
